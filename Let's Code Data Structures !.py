@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ### Write a Python program which accepts the radius of a circle from the user and computes area
-
-# In[ ]:
+# In[1]:
 
 
 from math import pi
